@@ -1,8 +1,6 @@
 ## GIF Viewer - VBXE
 
-<a href="gifview.png">
-  <img align="center" src="gifview.png" width="320" height="240" alt="GIF Viewer">
-</a>
+<img align="center" src="gifview.png" width="320" height="240" alt="GIF Viewer">
 
 ---
 
