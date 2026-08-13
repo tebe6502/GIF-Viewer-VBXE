@@ -1,7 +1,7 @@
 ## GIF Viewer - VBXE
 
 <a href="images/02.png">
-  <img align="center" src="gifview.png" width="320" height="240" alt="GIF Viewer">
+  <img align="center" src="\gifview.png" width="320" height="240" alt="GIF Viewer">
 </a>
 
 * support GIF87/89
