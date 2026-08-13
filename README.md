@@ -1,8 +1,6 @@
 ## GIF Viewer - VBXE
 
-<a href="images/02.png">
-  <img align="center" src="\gifview.png" width="320" height="240" alt="GIF Viewer">
-</a>
+<img align="center" src="gifview.png" width="320" height="240" alt="GIF Viewer">
 
 * support GIF87/89
 * source: [Mad Pascal units GIF, VBXE](https://github.com/tebe6502/Mad-Pascal/tree/master/lib)
